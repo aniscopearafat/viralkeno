@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /install/
+Disallow: /config/
+Sitemap: https://viralkeno.com/sitemap.xml

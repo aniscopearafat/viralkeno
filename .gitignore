@@ -1,0 +1,6 @@
+/config/config.php
+/uploads/images/*
+!/uploads/images/index.html
+*.log
+*.zip
+.DS_Store
